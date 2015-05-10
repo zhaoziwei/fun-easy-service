@@ -6,11 +6,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-<<<<<<< HEAD
-import com.dao.base.BaseDao;
-=======
->>>>>>> 0633839887f2a45641790678d53eccb80b2f2feb
-import com.entity.user.UserInfo;
 import com.service.base.impl.BaseServiceImpl;
 import com.service.user.UserService;
 @Service
